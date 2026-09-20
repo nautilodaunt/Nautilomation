@@ -1,8 +1,9 @@
 Demo on website.
+Commands
 
-!add "TOKEN" "CHANNEL_ID" 10 your message here
-Starts a bot sending that message every 10 seconds.
-!remove "TOKEN"
+!add "TOKEN" "CHANNEL_ID" 10 your message here \n
+Starts a bot sending that message every 10 seconds. \n
+!remove "TOKEN" \n
 Removes and stops that bot.
 !autoreply "TOKEN" "reply message"
 Turns on DM auto-replies.
@@ -12,4 +13,4 @@ Turns off the DM auto-reply.
 Lists the servers the main bot is in.
 !stop
 Stops the channel-creation interval if one is running.
-!fortnite
+
